@@ -9,8 +9,8 @@
 
 ## contact Me
 
-  <p><img width="30px" height="30px" src="./images/email.png" /align="center"> - foreveraluku@gmail.com </p>
-    <p><img width="30px" height="30px" src="./images/whatsapp.png" /align="center"> +254769301113 </p>
+  <p><img width="30px" height="30px" src="./images/email.png" /align="center">   foreveraluku@gmail.com </p>
+    <p><img width="30px" height="30px" src="./images/whatsapp.png" /align="center">   +254769301113 </p>
 
 ## my projects
 
