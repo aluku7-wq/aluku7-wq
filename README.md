@@ -10,6 +10,7 @@
 ## contact Me
 
   <p><img width="30px" height="30px" src="./images/email.png" /align="center"> - foreveraluku@gmail.com </p>
+    <p><img width="30px" height="30px" src="./images/email.png" /align="center"> - foreveraluku@gmail.com </p>
 
 ## my projects
 
